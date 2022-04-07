@@ -12,8 +12,8 @@ require("@nomiclabs/hardhat-waffle");
   solidity: "0.8.4",
   networks: {
     rinkeby: {
-      url: "url",
-      accounts: ["account"]
+      url: process.env.RINKEBY_URL,
+      accounts: [process.env.RINKEBY_ACCOUNT]
     }
   }
 };

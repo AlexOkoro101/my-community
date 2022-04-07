@@ -1,0 +1,14 @@
+{
+    "html.format.contentUnformatted": "",
+    "emmet.triggerExpansionOnTab": true,
+    "files.associations": {
+        "*html": "html"
+    },
+    "html.format.extraLiners": "",
+    "emmet.preferences": {
+    
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    }
+}
