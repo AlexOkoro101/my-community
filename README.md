@@ -1,4 +1,4 @@
-# Basic Sample Solidity Project
+# Basic Solidity Project
 
 This project demonstrates a basic solidy with hardhat use case.
 
